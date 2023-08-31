@@ -195,6 +195,11 @@ header ul li a:hover{
     border:0;
 }
 
-.produtos{
+.produtos {
+    display: grid;
     background-color: transparent;
+    margin: 20px;
+    text-align: center;
+    padding: 40px;
+    box-sizing: border-box;
 }
