@@ -194,3 +194,7 @@ header ul li a:hover{
     height:auto; width:auto;
     border:0;
 }
+
+.produtos{
+    background-color: transparent;
+}
