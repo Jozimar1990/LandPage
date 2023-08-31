@@ -169,15 +169,15 @@ header ul li a:hover{
     list-style: none;
 }
 
-.sci li {
+.sci li a{
     display: inline-block;
     filter: invert(1);
     margin: 5px 0;
-    transform: scale(1.5);
+    transform: scale(.8);
 
 }
 
-.sci li :hover{
+.sci li a:hover{
     color: hsl(80, 100%, 99%);
     font-size: xx-large;
     -webkit-transform: scale(1.2);
