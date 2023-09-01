@@ -196,7 +196,11 @@ header ul li a:hover{
 }
 
 .produtos {
-    display: grid;
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: transparent;
     margin: 20px;
     text-align: center;
@@ -206,5 +210,5 @@ header ul li a:hover{
 
 .captions{
     color: white;
-    
+
 }
